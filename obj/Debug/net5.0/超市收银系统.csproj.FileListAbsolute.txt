@@ -1,0 +1,16 @@
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.csprojAssemblyReference.cache
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.AssemblyInfoInputs.cache
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.AssemblyInfo.cs
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\C#\超市收银系统\bin\Debug\net5.0\超市收银系统.exe
+E:\Visual Studio Community\C#\超市收银系统\bin\Debug\net5.0\超市收银系统.deps.json
+E:\Visual Studio Community\C#\超市收银系统\bin\Debug\net5.0\超市收银系统.runtimeconfig.json
+E:\Visual Studio Community\C#\超市收银系统\bin\Debug\net5.0\超市收银系统.runtimeconfig.dev.json
+E:\Visual Studio Community\C#\超市收银系统\bin\Debug\net5.0\超市收银系统.dll
+E:\Visual Studio Community\C#\超市收银系统\bin\Debug\net5.0\ref\超市收银系统.dll
+E:\Visual Studio Community\C#\超市收银系统\bin\Debug\net5.0\超市收银系统.pdb
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.dll
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\ref\超市收银系统.dll
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.pdb
+E:\Visual Studio Community\C#\超市收银系统\obj\Debug\net5.0\超市收银系统.genruntimeconfig.cache
